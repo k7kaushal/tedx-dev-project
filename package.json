@@ -1,6 +1,6 @@
 {
   "homepage": "https://k7kaushal.github.io/tedx-dev-project/",
-  "name": "tutorial",
+  "name": "tedx-dev-project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
