@@ -1,0 +1,50 @@
+.sponsimg,.sponsimgl{
+    width:15rem;
+      height:11rem;
+      position: relative;
+      /* margin-left: 2vw;
+      position: relative;
+      justify-content: center;
+      align-items: center;
+      margin-top:7vh; */
+    
+}
+.sponsimgl{
+  
+    
+    position: relative;
+    margin-left: 28%;
+    /* position: relative;
+    justify-content: center; */
+    align-items: center;
+    
+  
+}
+ul{
+    list-style: none;
+ }
+
+ .nakshtra{
+  padding-top: 8vh;
+ }
+ .speakimg{
+  height:25rem;
+  width:22rem;
+ }
+ 
+ .sponcont,.naksdescp{
+  text-align: justify;
+  justify-content: space-evenly;
+ }
+
+ .head1{
+font-size: 3rem;
+font-weight: 500;
+ }
+
+ .newcard{
+  border: 2px solid beige;
+  border-radius: 0.1rem;
+ 
+  
+ }
